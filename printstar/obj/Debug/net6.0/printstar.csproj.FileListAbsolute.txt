@@ -1,0 +1,15 @@
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\bin\Debug\net6.0\printstar.exe
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\bin\Debug\net6.0\printstar.deps.json
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\bin\Debug\net6.0\printstar.runtimeconfig.json
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\bin\Debug\net6.0\printstar.dll
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\bin\Debug\net6.0\printstar.pdb
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.csproj.AssemblyReference.cache
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.AssemblyInfoInputs.cache
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.AssemblyInfo.cs
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.csproj.CoreCompileInputs.cache
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.dll
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\refint\printstar.dll
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.pdb
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\printstar.genruntimeconfig.cache
+C:\Users\정아\Desktop\유니티\homework\printstar\printstar\obj\Debug\net6.0\ref\printstar.dll
