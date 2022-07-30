@@ -1,0 +1,5 @@
+C:\Users\정아\Desktop\유니티\homework\Bob\Bob\obj\Debug\net6.0\Bob.csproj.AssemblyReference.cache
+C:\Users\정아\Desktop\유니티\homework\Bob\Bob\obj\Debug\net6.0\Bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\정아\Desktop\유니티\homework\Bob\Bob\obj\Debug\net6.0\Bob.AssemblyInfoInputs.cache
+C:\Users\정아\Desktop\유니티\homework\Bob\Bob\obj\Debug\net6.0\Bob.AssemblyInfo.cs
+C:\Users\정아\Desktop\유니티\homework\Bob\Bob\obj\Debug\net6.0\Bob.csproj.CoreCompileInputs.cache
