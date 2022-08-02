@@ -1,0 +1,15 @@
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\bin\Debug\net6.0\numberbaseball.exe
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\bin\Debug\net6.0\numberbaseball.deps.json
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\bin\Debug\net6.0\numberbaseball.runtimeconfig.json
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\bin\Debug\net6.0\numberbaseball.dll
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\bin\Debug\net6.0\numberbaseball.pdb
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.csproj.AssemblyReference.cache
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.AssemblyInfoInputs.cache
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.AssemblyInfo.cs
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.csproj.CoreCompileInputs.cache
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.dll
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\refint\numberbaseball.dll
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.pdb
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\numberbaseball.genruntimeconfig.cache
+C:\Users\정아\Desktop\유니티\homework\numberbaseball\numberbaseball\obj\Debug\net6.0\ref\numberbaseball.dll
