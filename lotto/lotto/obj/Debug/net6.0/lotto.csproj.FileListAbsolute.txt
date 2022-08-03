@@ -1,0 +1,15 @@
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\bin\Debug\net6.0\lotto.exe
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\bin\Debug\net6.0\lotto.deps.json
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\bin\Debug\net6.0\lotto.runtimeconfig.json
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\bin\Debug\net6.0\lotto.dll
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\bin\Debug\net6.0\lotto.pdb
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.csproj.AssemblyReference.cache
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.AssemblyInfoInputs.cache
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.AssemblyInfo.cs
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.csproj.CoreCompileInputs.cache
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.dll
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\refint\lotto.dll
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.pdb
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\lotto.genruntimeconfig.cache
+C:\Users\정아\Desktop\유니티\homework\lotto\lotto\obj\Debug\net6.0\ref\lotto.dll
